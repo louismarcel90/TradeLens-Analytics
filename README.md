@@ -45,4 +45,4 @@
 
 ## 7. 🏛️ Why TradeLens Analytics Matters
 
-Coming soon: Roadmap, demo, Use Case Security, CI/CD, Observability ()
+Coming soon: Roadmap, demo, Use Case Security, CI/CD, Observability (...)
