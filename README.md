@@ -1,4 +1,4 @@
-# TradeLens Analytics — _Global Supply Chain Visibility_
+# TradeLens Analytics — _Assured Logistics Intelligence & Explainable Decision System_
 
 ## 🧰 Technologies Used in Practice
 
