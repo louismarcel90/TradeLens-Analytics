@@ -32,17 +32,31 @@
 
 ## 🧠 What is TradeLens Analytics / Why It Exists
 
+---
+
 ## ⚡ Real World Scenario
+
+---
 
 ## 🧩 System Thinking
 
+---
+
 ## 🏗 System Architecture
+
+---
 
 ## 🏗️ Project Structure
 
+---
+
 ## ⚖️ Trade-offs
 
+---
+
 ## ⚠️ Failure Modes
+
+---
 
 ## 🧭 Principles
 
@@ -70,23 +84,43 @@
 
 ### 🎬 6. Verify System
 
+---
+
 ## 📡 Runtime Reality
+
+---
 
 ### 📊 Performance (simulated)
 
+---
+
 ### ⚠️ Constraints
+
+---
 
 ### 🧨 Failure Model
 
+---
+
 ### 🛡️ Safety
+
+---
 
 ### 📐 Guarantees
 
+---
+
 ### ✅ Verification
+
+---
 
 ## 🔐 Security
 
+---
+
 ## 👨‍💻 Author
+
+---
 
 ## 📄 License
 
