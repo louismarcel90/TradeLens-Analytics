@@ -21,7 +21,7 @@
   </table>
 </p>
 
-> Every operational signal is transformed into explainable logistics intelligence with traceable decision assurance.
+> Every operational signal is transformed into explainable logistics intelligence with traceable decision assurance
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
